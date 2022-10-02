@@ -3,10 +3,6 @@
 # Use whatever makes the most sense for your 
 # design and implementation.
 
-
-from lib2to3.pytree import Node
-
-
 class node:
     def __init__(self, label):
         self.label = label
